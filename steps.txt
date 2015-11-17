@@ -1,0 +1,9 @@
+
+To post content to website on server i generated following post requests using cURL commands:
+
+
+curl —-data "ingredient=3 tablespoons good olive oil" http://localhost:4567/ingredients
+
+curl —-data "ingredient=3/4 teaspoon kosher salt" http://localhost:4567/ingredients
+
+curl —-data "ingredient=1/2 teaspoon freshly ground black pepper" http://localhost:4567/ingredients
